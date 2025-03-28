@@ -5,7 +5,7 @@ public class Nini {
 
     public static void hello() {
         System.out.println("Heeeej från nini");
-        //hej
+        //hejjfekljfjliwe
 
     }
 }
